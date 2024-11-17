@@ -1,0 +1,31 @@
+Title,Body,Assignee,State,Labels,Due Date
+Gather financial complaints dataset, - Gather financial complaints dataset,Jean Miranda Huarancca,closed,Task,10/7/2024
+Review and implement professor feedback, - Review and implement professor feedback,Ricardo  Ibanez,closed,Task,10/22/2024
+Model selection, - Model selection,Ricardo  Ibanez,closed,Task,10/22/2024
+Research relevant LLMs,ACMFFIC-3 - Research relevant LLMs,Richard Contreras,closed,Sub-task,10/14/2024
+Select the best model based on project requirements ,ACMFFIC-3 - Select the best model based on project requirements ,Jean Miranda Huarancca,closed,Sub-task,10/22/2024
+Dataset analysis and cleaning process, - Dataset analysis and cleaning process,Richard Contreras,closed,Task,10/22/2024
+Analys the information from the dataset (identify the information that is relevant for complaint classification).,ACMFFIC-8 - Analys the information from the dataset (identify the information that is relevant for complaint classification).,Richard Contreras,closed,Sub-task,10/13/2024
+Cleaning the data gathered.,ACMFFIC-8 - Cleaning the data gathered.,Richard Contreras,closed,Sub-task,10/22/2024
+Develop initial prototype , - Develop initial prototype ,Richard Contreras,closed,Task,11/8/2024
+Define and code the model for classification.,ACMFFIC-5 - Define and code the model for classification.,Ricardo  Ibanez,closed,Sub-task,10/20/2024
+Run initial classification tests,ACMFFIC-5 - Run initial classification tests,Richard Contreras,closed,Sub-task,10/28/2024
+Iterate and refine in base of the results.,ACMFFIC-5 - Iterate and refine in base of the results.,Jean Miranda Huarancca,open,Sub-task,11/15/2024
+Milestone 1: Initial development, - Milestone 1: Initial development,Jean Miranda Huarancca,closed,Task,11/7/2024
+Organize Colab  notebook,ACMFFIC-22 - Organize Colab  notebook,Richard Contreras,closed,Sub-task,11/7/2024
+Prepare the documentation for milestone 1,ACMFFIC-22 - Prepare the documentation for milestone 1,Ricardo  Ibanez,closed,Sub-task,11/7/2024
+Prepare slides.,ACMFFIC-22 - Prepare slides.,Jean Miranda Huarancca,closed,Sub-task,11/7/2024
+Analyze and implement feedback from milestone 1, - Analyze and implement feedback from milestone 1,Richard Contreras,open,Task,11/19/2024
+Review and implement feedback from Milestone 1,ACMFFIC-26 - Review and implement feedback from Milestone 1,Ricardo  Ibanez,open,Sub-task,11/13/2024
+"Iterate on model, prompt, or dataset based on feedback received.","ACMFFIC-26 - Iterate on model, prompt, or dataset based on feedback received.",Richard Contreras,open,Sub-task,11/18/2024
+Desing the chatbot workflow, - Desing the chatbot workflow,Jean Miranda Huarancca,open,Task,11/28/2024
+"Design the chatbot workflow structure (interaction, classification, notification flows)","ACMFFIC-29 - Design the chatbot workflow structure (interaction, classification, notification flows)",Jean Miranda Huarancca,open,Sub-task,11/19/2024
+Create classification chains (Build logic to retrieve and classify complaint results),ACMFFIC-29 - Create classification chains (Build logic to retrieve and classify complaint results),Richard Contreras,open,Sub-task,11/28/2024
+Create notifications chains (Generated emails based on the classification to notify the user and respective teams).,ACMFFIC-29 - Create notifications chains (Generated emails based on the classification to notify the user and respective teams).,Ricardo  Ibanez,open,Sub-task,11/28/2024
+Build User interface in Streamlit, - Build User interface in Streamlit,Richard Contreras,open,Task,11/27/2024
+Set up automated email notification and other functionalities, - Set up automated email notification and other functionalities,Ricardo  Ibanez,open,Task,11/30/2024
+Explore implementation options,ACMFFIC-34 - Explore implementation options,Ricardo  Ibanez,open,Sub-task,11/13/2024
+Code and implement email notification for customers and teams,ACMFFIC-34 - Code and implement email notification for customers and teams,Jean Miranda Huarancca,open,Sub-task,11/20/2024
+Integrate the functionality with our core application,ACMFFIC-34 - Integrate the functionality with our core application,Richard Contreras,open,Sub-task,11/30/2024
+Deployment and user testing., - Deployment and user testing.,Jean Miranda Huarancca,open,Task,12/5/2024
+Milestone 2: Prepare final presentation and demo., - Milestone 2: Prepare final presentation and demo.,Ricardo  Ibanez,open,Task,12/7/2024
